@@ -1,5 +1,0 @@
-using UnityEngine;
-
-public class CharacterMovement : MonoBehaviour
-{
-   public float Rigidbody2D;
